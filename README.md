@@ -1,5 +1,5 @@
 # Hexart.In-Task3
-Training and Testing a machine learning model
+Classification using neural network in python
 
 Classifying a "cats vs dogs" dataset using neural networks involves training a machine learning model 
 to accurately distinguish between images of cats and images of dogs.
